@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "minitools"
+  site-url: "https://butchland.github.io/minitools"
+  description: "mini tools for miniai research"
+  repo-branch: main
+  repo-url: "https://github.com/butchland/minitools"
